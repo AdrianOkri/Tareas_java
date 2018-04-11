@@ -11,7 +11,7 @@ package carpetaUno;
  */
 public class TiposDatos {
     
-   static int numuno, intnumdos;
+   static int numuno, intnumdos; // static hace que la variable tenga una única posición en la memoria
     static double numtres = 5.6;//este soporta el de 64 bits
     public static void main(String arg[]){
         int num4; // 32 bits

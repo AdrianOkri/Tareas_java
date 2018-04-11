@@ -11,7 +11,7 @@ public class Aritmeticos {
         resultado = operador1 + operador3;
         // Operación
         System.out.println("La suma de op1 y op3 es " + resultado);
-        resultado = operador1 - operador3;
+        resultado = operador1 - operador3; //Realizar una opreación y mostrar el resltado
         System.out.println("La resta de op1 y op3 es " + resultado);
         resultado = operador1 * operador3;
         System.out.println("La multiplicación de op1 y op3 es " + resultado);
